@@ -4,6 +4,10 @@
 
 <a href='https://02-technical-interview-simulation.vercel.app/'>Click Here</a>
 
+## Screenshots
+
+<img src="https://i.ibb.co/16xqRpt/Screenshot-2023-09-11-235918.png" alt="Project's Image" />
+
 ## APIs
 
 ``` Facts Random: https://catfact.ninja/fact ```

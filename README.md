@@ -1,6 +1,6 @@
 # Technical Interview Simulation
 
-## Apis
+## APIs
 
 ``` Facts Random: https://catfact.ninja/fact ```
 
